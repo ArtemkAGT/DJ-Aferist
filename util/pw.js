@@ -1,7 +1,7 @@
 const status = "AUTOMATIC";
-const botName = "🎸 MUSIC BOT";
-const rtxText = "RTX";
-const version = "Latest@ v3.6"; 
+const botName = "🎸 DJ Aferist";
+const rtxText = "ArtemkAGT";
+const version = "Latest@ v0.1"; 
 const startTime = Date.now();
 
 function printWatermark() {
